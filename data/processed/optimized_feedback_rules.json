@@ -1,0 +1,10 @@
+{
+    "fatigue_threshold": 0.8,
+    "tension_threshold": 0.7,
+    "weakness_threshold": 0.6,
+    "adjustment_strategies": {
+        "fatigue": {"frequency_scale": 0.7, "amplitude_scale": 1.0},
+        "normal": {"frequency_scale": 1.0, "amplitude_scale": 1.0},
+        "excellent": {"frequency_scale": 1.2, "amplitude_scale": 1.1}
+    }
+}
